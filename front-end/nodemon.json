@@ -1,0 +1,4 @@
+{
+  "watch": ["server.ts", "routes.ts"],
+  "exec": "ts-node --project tsconfig.server.json server.ts"
+}
